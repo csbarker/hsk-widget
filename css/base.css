@@ -1,0 +1,19 @@
+BODY {
+    -webkit-app-region: drag;
+}
+
+.chinese {
+    text-align:center;
+    font-size:29px;
+    margin-top: 5px;
+    margin-bottom: -10px;
+}
+.pinyin {
+    text-align:center;
+    min-height:18px;
+    margin-bottom: -10px;
+}
+
+.english {
+    margin-bottom:0;
+}
